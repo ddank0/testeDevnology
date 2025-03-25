@@ -27,7 +27,7 @@
     Ordena a lista de forma crescente (asc) ou decrescente (desc)
 
     ? all_data=true
-    Retorna a requisição sempaginação
+    Retorna a requisição sem paginação
     
 Exemplos:
     
