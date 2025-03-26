@@ -26,7 +26,7 @@
     ?sort=
     Ordena a lista de forma crescente (asc) ou decrescente (desc)
 
-    ? all_data=true
+    ?all_data=true
     Retorna a requisição sem paginação
     
 Exemplos:
